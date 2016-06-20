@@ -19,3 +19,6 @@
 .uib-position-body-scrollbar-measure {
   overflow: scroll !important;
 }
+.uib-time input {
+  width: 50px;
+}
